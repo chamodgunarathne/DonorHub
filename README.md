@@ -1,2 +1,2 @@
-# goDonateME
+# DonorHub
 Donation platform which is created by using MERN Stack
